@@ -1,0 +1,15 @@
+services:
+  review:
+    build: .
+    ports:
+      - "50053:50053"
+    env_file:
+      - ./cmd/.env
+    volumes:
+      - ./cmd/logs:/app/logs
+    networks:
+      - review-network
+
+networks:
+  review-network:
+    driver: bridge

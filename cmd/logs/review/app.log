@@ -1,0 +1,31 @@
+[INFO] - 2025-02-27T19:02:13+03:00 - gRPC server listening on port
+[INFO] - 2025-02-27T19:08:05+03:00 - review created successfully for media ID: 15 and user ID: 5
+[INFO] - 2025-02-27T19:08:05+03:00 - review created successfully for media ID: 15 and user ID: 5
+[INFO] - 2025-02-27T19:08:41+03:00 - review created successfully for media ID: 18 and user ID: 5
+[INFO] - 2025-02-27T19:08:41+03:00 - review created successfully for media ID: 18 and user ID: 5
+[INFO] - 2025-02-27T19:09:33+03:00 - review fetched successfully with ID: 7
+[INFO] - 2025-02-27T19:09:33+03:00 - review fetched successfully with ID: 7
+[INFO] - 2025-02-27T19:10:28+03:00 - review fetched successfully with ID: 7
+[INFO] - 2025-02-27T19:10:29+03:00 - review updated successfully with ID: 7
+[INFO] - 2025-02-27T19:10:29+03:00 - review updated successfully with ID: 7
+[INFO] - 2025-02-27T19:11:14+03:00 - review fetched successfully with ID: 6
+[INFO] - 2025-02-27T19:11:15+03:00 - review deleted successfully with ID: 6
+[INFO] - 2025-02-27T19:11:15+03:00 - review deleted successfully with ID: 6
+[INFO] - 2025-02-27T19:11:55+03:00 - review created successfully for media ID: 188 and user ID: 6
+[INFO] - 2025-02-27T19:11:55+03:00 - review created successfully for media ID: 188 and user ID: 6
+[INFO] - 2025-02-27T19:12:23+03:00 - all reviews fetched successfully
+[INFO] - 2025-02-27T19:12:23+03:00 - all reviews fetched successfully
+[INFO] - 2025-02-27T19:12:48+03:00 - reviews fetched successfully by user ID: 5
+[INFO] - 2025-02-27T19:12:48+03:00 - reviews fetched successfully by user ID: 5
+[INFO] - 2025-02-27T19:15:01+03:00 - reviews fetched successfully by user ID: 5
+[INFO] - 2025-02-27T19:15:01+03:00 - reviews fetched successfully by user ID: 5
+[INFO] - 2025-02-27T19:15:36+03:00 - reviews fetched successfully by rating: 7
+[INFO] - 2025-02-27T19:15:36+03:00 - reviews fetched successfully by rating: 7
+[INFO] - 2025-02-27T19:17:52+03:00 - gRPC server listening on port
+[INFO] - 2025-02-27T19:18:13+03:00 - reviews fetched successfully by media ID: 188
+[INFO] - 2025-02-27T19:18:13+03:00 - reviews fetched successfully by media ID: 188
+[INFO] - 2025-02-27T16:33:37Z - gRPC server listening on port
+[INFO] - 2025-02-27T16:33:43Z - reviews fetched successfully by media ID: 188
+[INFO] - 2025-02-27T16:33:43Z - reviews fetched successfully by media ID: 188
+[INFO] - 2025-02-27T16:33:52Z - reviews fetched successfully by user ID: 5
+[INFO] - 2025-02-27T16:33:52Z - reviews fetched successfully by user ID: 5
